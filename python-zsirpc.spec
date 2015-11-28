@@ -1,7 +1,7 @@
 Summary:	Simplified wrapper for ZSI SOAP module
 Name:		python-zsirpc
 Version:	1.1
-Release:	3
+Release:	4
 License:	Python
 Group:		Libraries/Python
 Source0:	http://dl.sourceforge.net/ose/zsirpc-%{version}.tar.gz
