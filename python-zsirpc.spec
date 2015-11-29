@@ -7,6 +7,7 @@ Group:		Libraries/Python
 Source0:	http://dl.sourceforge.net/ose/zsirpc-%{version}.tar.gz
 # Source0-md5:	aaecf87a04d3f2f8f96ca430dbbd5ba7
 URL:		http://ose.sourceforge.net/
+BuildRequires:	rpmbuild(macros) >= 1.710
 %pyrequires_eq	python
 BuildRequires:	python-modules
 BuildRequires:	rpm-pythonprov
